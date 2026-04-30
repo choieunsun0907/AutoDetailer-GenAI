@@ -1,0 +1,5 @@
+{
+  "name": "상세페이지 생성-전무님 AutoDetailer GenAI",
+  "description": "Automated product detail page generator using Gemini 3.0 Pro Reasoning and Image models.",
+  "requestFramePermissions": []
+}
