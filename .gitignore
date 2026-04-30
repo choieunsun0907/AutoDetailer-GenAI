@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# .gitignore GOOGLE_API_KEY=AIzaSyDGavYleBcywaCJG_E_vLV_dcZa3qtlgso
+.env
+node_modules/
+__pycache__/
